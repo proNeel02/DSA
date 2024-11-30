@@ -42,7 +42,6 @@
             }
 
 
-
         /**
         *  Chargers the given price to the card, assuming sufficient credit limit.
          * @param price the amount to be charged
