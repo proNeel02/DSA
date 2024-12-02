@@ -1,4 +1,4 @@
-package chapter_2;
+package chapter_2.course_2;
 
 public abstract class AbstractProgression {
 

@@ -1,6 +1,8 @@
 package chapter_2;
 
-public class GeometricProgression extends AbstractProgression{
+import chapter_2.course_2.AbstractProgression;
+
+public class GeometricProgression extends AbstractProgression {
 
     protected long base;
 

@@ -1,5 +1,7 @@
 package chapter_2;
 
+import chapter_2.course_2.AbstractProgression;
+
 public class TestProgression {
 
     public static void main(String[] args) {

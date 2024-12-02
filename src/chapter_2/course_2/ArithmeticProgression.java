@@ -1,5 +1,6 @@
-package chapter_2;
-public class ArithmeticProgression extends AbstractProgression{
+package chapter_2.course_2;
+
+public class ArithmeticProgression extends AbstractProgression {
 
     protected long increment;
 
