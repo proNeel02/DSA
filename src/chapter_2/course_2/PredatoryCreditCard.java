@@ -1,4 +1,4 @@
-package chapter_2;
+package chapter_2.course_2;
 import Chapter_1.Reinforcement.CreditCard;
 
 

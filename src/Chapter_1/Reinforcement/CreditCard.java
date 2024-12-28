@@ -43,7 +43,7 @@
 
 
         /**
-        *  Chargers the given price to the card, assuming sufficient credit limit.
+        *  Charges the given price to the card, assuming sufficient credit limit.
          * @param price the amount to be charged
          * @return true if charge was accepted; false if charge was denied
         * */
